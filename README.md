@@ -3,7 +3,7 @@
 Extract Colors from ImageUrl using Palette Library in Jetpack Compose.
 A big thank to Stevdza-San Buroto App Course.
 
-Please check out my youtube channel (Aditya Tech Developers) for more interesting content.
+Please check out my youtube channel (Developer Chunk) for more interesting content.
 
 Tutorial of the project is uploaded here: https://youtu.be/ZalrY6pxYaQ
 
